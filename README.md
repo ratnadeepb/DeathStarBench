@@ -1,3 +1,6 @@
+# Note
+This repo contains the kubernetes deployment yaml files that looks to have been removed from the original repo. Careful when syncing with the original repo
+
 # DeathStarBench
 
 Open-source benchmark suite for cloud microservices. DeathStarBench includes five end-to-end services, four for cloud systems, and one for cloud-edge systems running on drone swarms. 
